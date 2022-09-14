@@ -1,5 +1,5 @@
 # Pomodoro_app
-A simple Pomodoro App created with Python and Tkinter.
+A simple Pomodoro App created with Tkinter.
 # Table of Contents
 * Description
 * Libraries 
